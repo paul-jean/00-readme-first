@@ -5,6 +5,7 @@ var gulp = require('gulp');
 var eslint = require('gulp-eslint');
 var browserify = require('browserify');
 var source = require('vinyl-source-stream');
+var nodemon = require('gulp-nodemon');
 //var concat = require('gulp-concat');
 //var uglify = require('gulp-uglify');
 //var rename = require('gulp-rename');
@@ -12,7 +13,8 @@ var source = require('vinyl-source-stream');
 
 var paths = {
     js: ['src/js/fib.js', 'src/js/print-fib.js'],
-    build: 'build/'
+    build: 'build/',
+    test: 'test/tests.js'
 };
 
 // Lint Task
@@ -44,6 +46,13 @@ gulp.task('scripts', function() {
         .pipe(gulp.dest('dist'));
 });
 */
+
+gulp.task('test', function() {
+    nodemon({script: paths.test})
+    .on('exit', function() {
+        process.exit();
+    });
+});
 
 // Watch Files For Changes
 gulp.task('watch', function() {

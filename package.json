@@ -30,6 +30,7 @@
     "gulp-eslint": "^1.0.0",
     "gulp-ignore": "^1.2.1",
     "gulp-jshint": "^1.11.2",
+    "gulp-nodemon": "^2.0.4",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.4.1",
     "jquery": "^2.1.4",

@@ -3,9 +3,32 @@
 Implement a function that returns the nth fibonacci number f(n),
 for integer n = 0, 1, 2 ...
 
-## Run
+### Front end
 
-Run the tests:
+A simple demo is included that lets you compare the timing of the fibonacci sequence
+as computed by straight recursion and using recursion with memoization to avoid
+recomputing values of f(n).
+
+Start a web server:
+
+```bash
+    [rule146@rule146: fib-nodejs]$ python -m SimpleHTTPServer
+    Serving HTTP on 0.0.0.0 port 8000 ...
+```
+
+Hit the "Start" button to run regular and memoized fibonacci sequences
+side by side:
+
+![assets/fib-start.gif](start)
+
+Eventually the regular implementation takes > 3 seconds and is aborted,
+while the memoized version keeps computing iterations:
+
+![assets/fib-end.gif](end)
+
+### Tests
+
+Run the tests using the `test` gulp task:
 
 ``` bash
     [rule146@rule146: fib-nodejs]$ gulp test
@@ -39,9 +62,9 @@ Run the tests:
     tests PASSED
 ```
 
-## Build
+### Build
 
-Package the JS code using browserify:
+Package the JS code using browserify with the `build` gulp task:
 
 ``` bash
     [rule146@rule146: fib-nodejs]$ gulp build
@@ -58,3 +81,11 @@ Package the JS code using browserify:
     -rw-r--r--  1 rule146  staff   245K Oct  6 22:42 bundle.js
 ```
 
+### Creating the screencasts
+
+The screencasts were taken using QuickTime Player, and then converted to
+animated gifs using `ffmpeg`:
+
+```bash
+    ffmpeg -i fib-end.mov -s 1440x900 -f gif -filter:v "setpts=0.25*PTS" - | gifsicle --optimize=3 > fib-end.gif
+```

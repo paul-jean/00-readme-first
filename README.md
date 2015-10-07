@@ -19,12 +19,12 @@ Start a web server:
 Hit the "Start" button to run regular and memoized fibonacci sequences
 side by side:
 
-![assets/fib-start.gif](start)
+![start](assets/fib-start.gif "Hit the start button")
 
 Eventually the regular implementation takes > 3 seconds and is aborted,
 while the memoized version keeps computing iterations:
 
-![assets/fib-end.gif](end)
+![end](assets/fib-end.gif "Recursion starts timing out")
 
 ### Tests
 

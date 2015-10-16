@@ -1,5 +1,7 @@
-# 00-readme-first
-A summary of the content in my GitHub account
+# What is this?
+
+I'm trying out a summary repo, providing an index of sorts for my GitHub
+account.
 
 # Projects
 

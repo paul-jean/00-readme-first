@@ -5,8 +5,8 @@ A summary of the content in my GitHub account
 
 | Project | Description |
 |:--------|:------------|
-| [https://github.com/paul-jean/dom-viz](DomViz) | A chrome browser extension to visualize DOM mutations |
-| [https://github.com/paul-jean/fib-nodejs](Fibonacci with node.js) | Boilerplate code for using node.js, browserify, and gulp |
+| [DomViz](https://github.com/paul-jean/dom-viz) | A chrome browser extension to visualize DOM mutations |
+| [Fibonacci with node.js](https://github.com/paul-jean/fib-nodejs) | Boilerplate code for using node.js, browserify, and gulp |
 
 
 # Algorithms

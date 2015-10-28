@@ -14,6 +14,7 @@ account.
 | [Conway's Game of Life in Javascript](https://github.com/paul-jean/life) | Game of Life animation in various JS UI frameworks |
 | [Kanye's Game of Life](https://github.com/paul-jean/kanye-gol) | Conway's Game of Life with Kanye West as the initial condition |
 | [Random walk in Javascript](https://github.com/paul-jean/random-walk-js) | One-dimensional random walk in Javascript (node.js) |
+| [Random Noms web app](https://github.com/paul-jean/random-restaurant) | A simple multi-user web app for saving restaurants and menus |
 
 # Frameworks
 
@@ -35,6 +36,7 @@ account.
 | Scala | [Boggle solver in Scala](https://github.com/paul-jean/boggle) |
 | Wolfram Language (Mathematica) | [BlogThis](https://github.com/paul-jean/blog-this) |
 | | [Rule 146 Library](https://github.com/paul-jean/rule146) |
+| Python | [Random Noms web app](https://github.com/paul-jean/random-restaurant) |
 
 # Algorithms
 

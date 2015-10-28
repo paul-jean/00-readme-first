@@ -23,6 +23,7 @@ account.
 | MongoDB (MapReduce) | [Wikipedia page ranking with MongoDB](https://github.com/paul-jean/wiki-rank-mongodb) |
 | React.js | [Game of Life in Javascript](https://github.com/paul-jean/life) |
 | D3.js | [Game of Life in JS & D3](https://github.com/paul-jean/life/tree/master/implementations/d3-svg) |
+| Flask (Python) | [Random Noms web app](https://github.com/paul-jean/random-restaurant) |
 
 # Languages
 

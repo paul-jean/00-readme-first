@@ -7,14 +7,15 @@ account.
 
 | Project | Description |
 |:--------|:------------|
-| [DomViz](https://github.com/paul-jean/dom-viz) | A chrome browser extension to visualize DOM mutations |
+| [DomViz](https://github.com/paul-jean/dom-viz) | Chrome browser extension to visualize DOM mutations |
 | [Fibonacci with node.js](https://github.com/paul-jean/fib-nodejs) | Boilerplate code for using node.js, browserify, and gulp |
-| [BlogThis](https://github.com/paul-jean/blog-this) | Post Wolfram Language notebooks to a Wordpress blog |
-| [Wikipedia page ranking with MongoDB](https://github.com/paul-jean/wiki-rank-mongodb) | A MapReduce algorithm in MongoDB to rank wikipedia pageviews by language |
-| [Conway's Game of Life in Javascript](https://github.com/paul-jean/life) | Game of Life animation in various JS UI frameworks |
-| [Kanye's Game of Life](https://github.com/paul-jean/kanye-gol) | Conway's Game of Life with Kanye West as the initial condition |
+| [BlogThis](https://github.com/paul-jean/blog-this) | Wolfram Language plugin to post notebooks to a Wordpress blog |
+| [Wikipedia page ranking with MongoDB](https://github.com/paul-jean/wiki-rank-mongodb) | MapReduce algorithm in MongoDB to rank Wikipedia pageviews by language |
+| [Conway's Game of Life in Javascript](https://github.com/paul-jean/life) | Game of Life animation in various Javascript UI frameworks |
+| [Kanye's Game of Life](https://github.com/paul-jean/kanye-gol) | Conway's Game of Life with a Kanye West image as the initial condition |
 | [Random walk in Javascript](https://github.com/paul-jean/random-walk-js) | One-dimensional random walk in Javascript (node.js) |
-| [Random Noms web app](https://github.com/paul-jean/random-restaurant) | A simple multi-user web app for saving restaurants and menus |
+| [Random Noms web app](https://github.com/paul-jean/random-restaurant) | Web app that lets you save restaurants/menus, and get a randomly chosen one to eat at |
+| [Phonebook](https://github.com/paul-jean/phonebook) | Command-line app in node.js to save and look up people's phone numbers |
 
 # Frameworks
 
@@ -30,9 +31,10 @@ account.
 | Language | Project |
 |:---------|:--------|
 | Javascript (node.js) | [Wikipedia page ranking with MongoDB](https://github.com/paul-jean/wiki-rank-mongodb) |
-| | [Random walk in Javascript](https://github.com/paul-jean/random-walk-js) |
-| | [Fibonacci with node.js](https://github.com/paul-jean/fib-nodejs)
+| | [Random walk](https://github.com/paul-jean/random-walk-js) |
+| | [Fibonacci sequence](https://github.com/paul-jean/fib-nodejs)
 | | [Kanye's Game of Life](https://github.com/paul-jean/kanye-gol) |
+| | [Phonebook](https://github.com/paul-jean/phonebook) |
 | ClojureScript | [Game of Life in ClojureScript](https://github.com/paul-jean/life/blob/master/implementations/cljs-div/src/cljs_div/core.cljs) |
 | Scala | [Boggle solver in Scala](https://github.com/paul-jean/boggle) |
 | Wolfram Language (Mathematica) | [BlogThis](https://github.com/paul-jean/blog-this) |

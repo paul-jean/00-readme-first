@@ -16,6 +16,7 @@ account.
 | [Random walk in Javascript](https://github.com/paul-jean/random-walk-js) | One-dimensional random walk in Javascript (node.js) |
 | [Random Noms web app](https://github.com/paul-jean/random-restaurant) | Web app that lets you save restaurants/menus, and get a randomly chosen one to eat at |
 | [Phonebook](https://github.com/paul-jean/phonebook) | Command-line app in node.js to save and look up people's phone numbers |
+| [nth Bacon](https://github.com/paul-jean/nth-bacon) | node.js app to find nth degree costars to Kevin Bacon |
 
 # Frameworks
 
@@ -35,6 +36,7 @@ account.
 | | [Fibonacci sequence](https://github.com/paul-jean/fib-nodejs)
 | | [Kanye's Game of Life](https://github.com/paul-jean/kanye-gol) |
 | | [Phonebook](https://github.com/paul-jean/phonebook) |
+| | [nth Bacon](https://github.com/paul-jean/nth-bacon) |
 | ClojureScript | [Game of Life in ClojureScript](https://github.com/paul-jean/life/blob/master/implementations/cljs-div/src/cljs_div/core.cljs) |
 | Scala | [Boggle solver in Scala](https://github.com/paul-jean/boggle) |
 | Wolfram Language (Mathematica) | [BlogThis](https://github.com/paul-jean/blog-this) |

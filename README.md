@@ -17,7 +17,8 @@ account.
 | [Random Noms web app](https://github.com/paul-jean/random-restaurant) | Web app that lets you save restaurants/menus, and get a randomly chosen one to eat at |
 | [Phonebook](https://github.com/paul-jean/phonebook) | Command-line app in node.js to save and look up people's phone numbers |
 | [nth Bacon](https://github.com/paul-jean/nth-bacon) | node.js app to find nth degree costars to Kevin Bacon |
-
+| [Boggle solver in Scala](https://github.com/paul-jean/boggle) | Scala command-line app to solve boggle boards |
+| [Count nmers](https://github.com/paul-jean/nmer-counts) | Count the nmers in a DNA sequence |
 # Frameworks
 
 | Framework | Project |
@@ -37,6 +38,7 @@ account.
 | | [Kanye's Game of Life](https://github.com/paul-jean/kanye-gol) |
 | | [Phonebook](https://github.com/paul-jean/phonebook) |
 | | [nth Bacon](https://github.com/paul-jean/nth-bacon) |
+| | [Count nmers](https://github.com/paul-jean/nmer-counts) |
 | ClojureScript | [Game of Life in ClojureScript](https://github.com/paul-jean/life/blob/master/implementations/cljs-div/src/cljs_div/core.cljs) |
 | Scala | [Boggle solver in Scala](https://github.com/paul-jean/boggle) |
 | Wolfram Language (Mathematica) | [BlogThis](https://github.com/paul-jean/blog-this) |
@@ -44,6 +46,10 @@ account.
 | Python | [Random Noms web app](https://github.com/paul-jean/random-restaurant) |
 
 # Algorithms
+
+| Algorithm | Language | Description |
+| [Unique characters](https://github.com/paul-jean/code-dojo/tree/master/20131129-unique-chars) | Java | Are all characters in a string unique? |
+| [String permutations](https://github.com/paul-jean/code-dojo/tree/master/20131130-string-permutation) | Java | Given two strings, determine if one is a permutations of the other |
 
 # Ideas
 

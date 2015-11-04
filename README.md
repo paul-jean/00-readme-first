@@ -48,6 +48,7 @@ account.
 # Algorithms
 
 | Algorithm | Language | Description |
+|:----------|:---------|:------------|
 | [Unique characters](https://github.com/paul-jean/code-dojo/tree/master/20131129-unique-chars) | Java | Are all characters in a string unique? |
 | [String permutations](https://github.com/paul-jean/code-dojo/tree/master/20131130-string-permutation) | Java | Given two strings, determine if one is a permutations of the other |
 
